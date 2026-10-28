@@ -23,7 +23,7 @@ jobs:
       contents: read
       security-events: write
 
-      env:
+    env:
         REQUIRED_VAR: "workflow_value"
 
     # Steps represent a sequence of tasks that will be executed as part of the job
